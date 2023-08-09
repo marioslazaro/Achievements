@@ -22,7 +22,7 @@ Vale salientar que existem Tiers, sendo eles, Bronze, Prata e Ouro (Exemplo: par
 
 ------------------------------------------------------------------------------------------------------
 
-Aqui estarei deixando um [vídeo](https://www.youtube.com/watch?v=G36D8fE4Pzo) bem pratico te ensinando a conseguir os Achievements.
+Aqui estarei deixando um [vídeo](https://www.youtube.com/watch?v=G36D8fE4Pzo) bem prático te ensinando a conseguir os Achievements.
 
 # Referência 🌍
 [GitHub Profile Achievements trophy](https://github.com/Schweinepriester/github-profile-achievements) (aqui ele mostra bem sobre os Tiers, Bronze, Prata e Ouro)
